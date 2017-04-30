@@ -1,9 +1,14 @@
 [
    {
       "name":"Numix circle",
-      "big_image":"http://orig04.deviantart.net/f576/f/2014/223/d/3/numix_circle_linux_desktop_icon_theme_by_me4oslav-d6uxcka.png",
       "small_image":"https://avatars3.githubusercontent.com/u/5593384?v=3&s=400",
       "author":"https://numixproject.org/",
+      "description":"-"
+   },
+   {
+      "name":"Moka",
+      "small_image":"http://www.elblogderigo.info/wp-content/uploads/2013/07/moka_icon_theme_linux_ubuntu.png",
+      "author": "https://snwh.org/moka",
       "description":"-"
    }
 ]
